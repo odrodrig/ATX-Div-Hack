@@ -1,3 +1,6 @@
+//Authors: Oliver Rodriguez and Natalia Liles
+//Created for Austin Diversity Hackathon
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
