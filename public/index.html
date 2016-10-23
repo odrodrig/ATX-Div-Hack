@@ -47,7 +47,7 @@
             <h1 class="cover-heading">Got 2 Go</h1>
             <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
             <p class="lead">
-              <a href="#" class="btn btn-lg btn-default">Find a nearby restroom</a>
+              <a href="/results.html" class="btn btn-lg btn-default">Find a nearby restroom</a>
               <p class="lead">Or</p>
               <p>
                 <h3>Enter ZIP Code</h3>
@@ -60,16 +60,9 @@
                     <input id="zipInput" name="zipInput" type="text" placeholder="12345" class="input-md">
                   </div>
                   <div class="col-md-2">
-                    <a class="btn btn-default">Search</a>  
+                    <a class="btn btn-default" action="">Search</a>  
                   </div>
                 </div>
-
-                <!--
-                <form>
-                  <input type="text">
-                  <a class="btn btn-default">Search</a>
-                </form>
-                -->
 
             </p>
           </div>
@@ -84,17 +77,7 @@
       </div>
 
     </div>
-    <script>
-      window.onload = function() {
-        var startPos;
-        var geoSuccess = function(position) {
-          startPos = position;
-          console.log(startPos.coords.latitude);
-          console.log(startPos.coords.longitude);
-        };
-        navigator.geolocation.getCurrentPosition(geoSuccess);
-      };
-    </script>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
