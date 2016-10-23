@@ -1,5 +1,5 @@
 # What is Got2Go?  
-Got2Go is an app for folks looking for a quality public restroom in their area. The app was inspired by parents, especially dads, who have a hard time finding a proper changing stations or a safe space to take their daughters to potty. Yet, we understand that finding a public bathroom in most big cities is difficult for a lot of people. We are starting with Austin as a use case and hope to expand this tool to include more major cities. 
+Got2Go is an app for folks looking for a quality public restroom in their area. The app was inspired by parents, especially dads, who have a hard time finding a proper changing stations or a safe space to take their daughters to potty. Yet, we understand that finding a public bathroom in most big cities is difficult for a lot of people. Different filtering options will be available that will help people look for handicap accessible, gender neutral, family sized, and spik and span bathrooms. We are starting with Austin as a use case and hope to expand this tool to include more major cities. 
 
 
 
